@@ -1,0 +1,11 @@
+
+body {
+    background: #f6fcff url('../images/main_bg.jpg') no-repeat top center / cover;
+}
+
+.character {
+    width: 100%;
+    max-width: 364px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
