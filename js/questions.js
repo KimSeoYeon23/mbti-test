@@ -22,7 +22,7 @@ function renderQuestion() {
 }
 
 function nextQuestion(choiceNumber) {
-    if(currentNumber === questions.length) {
+    if(currentNumber === questions.length - 1) {
         showResultPage();
         return;
     }
