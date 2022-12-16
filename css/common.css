@@ -89,3 +89,15 @@ img {
     margin-bottom: 30px;
 }
 
+@media (max-width: 640px) {
+    body {
+        padding-top: 50px;
+        margin: 0 20px;
+    }
+    .page-title {
+        font-size: 40px;
+    }
+    .btn {
+        font-size: 34px;
+    }
+}
