@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1ef2c2eb-5686-4b8c-a0ea-577d71538a80/deploy-status)](https://app.netlify.com/sites/fancy-brioche-a39d18/deploys)
 # mbti-test
-[MBTI테스트](https://fancy-brioche-a39d18.netlify.app/)
+[MBTI테스트](https://mbti-test-sy.netlify.app/)
 FastCampus HTML, CSS, JS 강의
 
 # 📅 개발 기간
